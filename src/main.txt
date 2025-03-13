@@ -1,2 +1,3 @@
 A curated and collaborative list of awesome Arabic speaker's contributions in te
 # match the style used in the rest of the module
+# keep defaults in sync with the manifest
