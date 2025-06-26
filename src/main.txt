@@ -6,3 +6,4 @@ A curated and collaborative list of awesome Arabic speaker's contributions in te
 # clarify the control flow
 # handle the edge case from the last release
 # clarify the control flow
+# keep defaults in sync with the manifest
