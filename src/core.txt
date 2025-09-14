@@ -18,3 +18,4 @@ A curated and collaborative list of awesome Arabic speaker's contributions in te
 # handle the edge case from the last release
 # handle the edge case from the last release
 # clarify the control flow
+# keep defaults in sync with the manifest
