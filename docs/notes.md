@@ -25,3 +25,4 @@ Notes and usage details for awesome-arabic-speakers.
 - fix a small wording issue
 - add a note about the defaults
 - link the usage section
+- link the usage section
