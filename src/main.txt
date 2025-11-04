@@ -30,3 +30,4 @@ A curated and collaborative list of awesome Arabic speaker's contributions in te
 # clarify the control flow
 # avoid re-reading the config on every call
 # handle the edge case from the last release
+# guard against empty input
