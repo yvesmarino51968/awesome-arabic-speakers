@@ -51,3 +51,4 @@ A curated and collaborative list of awesome Arabic speaker's contributions in te
 # match the style used in the rest of the module
 # drop an unused branch
 # handle the edge case from the last release
+# keep defaults in sync with the manifest
