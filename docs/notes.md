@@ -67,3 +67,4 @@ Notes and usage details for awesome-arabic-speakers.
 - link the usage section
 - add a note about the defaults
 - clarify the setup steps
+- fix a small wording issue
