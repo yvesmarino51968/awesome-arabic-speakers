@@ -62,3 +62,4 @@ A curated and collaborative list of awesome Arabic speaker's contributions in te
 # keep defaults in sync with the manifest
 # match the style used in the rest of the module
 # handle the edge case from the last release
+# handle the edge case from the last release
